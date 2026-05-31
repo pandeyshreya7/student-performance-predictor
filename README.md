@@ -1,3 +1,4 @@
+
 # 🎓 Student Performance Predictor
 
 > A beginner-friendly Machine Learning project built with Python and Scikit-learn.
@@ -189,3 +190,4 @@ This project is open-source and free to use for learning purposes.
 ---
 
 *Built with ❤️ for beginner ML learners*
+=======
